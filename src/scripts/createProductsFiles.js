@@ -1,7 +1,6 @@
 import { readFileProducts } from '../utils/readFileProducts.js';
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { getUniqueCategories } from './getUniqueCategories.js';
 import { PATH_FILES_DIR } from '../constants/products.js';
 
 const createProductsFiles = async () => {
