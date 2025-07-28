@@ -73,5 +73,95 @@
     "name": "Soft Gold Shirt",
     "price": "663.89",
     "category": "Health"
+  },
+  {
+    "name": "Sleek Steel Salad",
+    "price": "865.25",
+    "category": "Beauty",
+    "description": "The sleek and untrue Hat comes with red LED lighting for smart functionality"
+  },
+  {
+    "name": "Fantastic Granite Tuna",
+    "price": "492.79",
+    "category": "Garden",
+    "description": "Innovative Keyboard featuring naughty technology and Cotton construction"
+  },
+  {
+    "name": "Generic Cotton Bacon",
+    "price": "953.71",
+    "category": "Beauty",
+    "description": "The sleek and vague Bacon comes with silver LED lighting for smart functionality"
+  },
+  {
+    "name": "Luxurious Bamboo Cheese",
+    "price": "776.85",
+    "category": "Home",
+    "description": "Our smoky-inspired Mouse brings a taste of luxury to your waterlogged lifestyle"
+  },
+  {
+    "name": "Awesome Steel Chair",
+    "price": "903.39",
+    "category": "Health",
+    "description": "Experience the gold brilliance of our Mouse, perfect for idealistic environments"
+  },
+  {
+    "name": "Ergonomic Steel Gloves",
+    "price": "817.25",
+    "category": "Baby",
+    "description": "Elegant Ball designed with Rubber for difficult performance"
+  },
+  {
+    "name": "Elegant Marble Hat",
+    "price": "953.25",
+    "category": "Sports",
+    "description": "Discover the turtle-like agility of our Chips, perfect for trivial users"
+  },
+  {
+    "name": "Bespoke Aluminum Gloves",
+    "price": "576.90",
+    "category": "Grocery",
+    "description": "Ergonomic Tuna made with Metal for all-day other support"
+  },
+  {
+    "name": "Tasty Marble Bacon",
+    "price": "507.80",
+    "category": "Baby",
+    "description": "Stylish Bike designed to make you stand out with mammoth looks"
+  },
+  {
+    "name": "Incredible Aluminum Pizza",
+    "price": "715.09",
+    "category": "Baby",
+    "description": "New Mouse model with 44 GB RAM, 987 GB storage, and true features"
+  },
+  {
+    "name": "Modern Bamboo Ball",
+    "price": "734.70",
+    "category": "Games",
+    "description": "New teal Bike with ergonomic design for avaricious comfort"
+  },
+  {
+    "name": "Unbranded Marble Computer",
+    "price": "350.59",
+    "category": "Jewelry",
+    "description": "The Ergonomic AI-powered methodology Tuna offers reliable performance and putrid design"
+  },
+  {
+    "name": "Sleek Ceramic Shoes",
+    "price": "340.85",
+    "category": "Automotive",
+    "description": "Innovative Computer featuring whirlwind technology and Steel construction"
+  },
+  {
+    "name": "Generic Granite Hat",
+    "price": "916.40",
+    "category": "Sports",
+    "description": "Innovative Tuna featuring ugly technology and Gold construction"
+  },
+  {
+    "name": "Awesome Ceramic Pizza",
+    "price": "534.49",
+    "category": "Tools",
+    "description": "The Front-line secondary intranet Gloves offers reliable performance and sweet design"
   }
 ]

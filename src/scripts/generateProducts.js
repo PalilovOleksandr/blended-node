@@ -11,7 +11,6 @@ const generateProducts = async (count) => {
       productData.push(newProduct);
     }
     await fs.writeFile(PATH_DB, JSON.stringify(productData, null, 2), 'utf-8');
-    console.log(productData.length);
   } catch (err) {
     console.error(err);
   }
