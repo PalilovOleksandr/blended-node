@@ -10,7 +10,7 @@ const generateProducts = async (count) => {
       const newProduct = createFakeProduct();
       productData.push(newProduct);
     }
-    fs.writeFile(PATH_DB, JSON.stringify(productData, null, 2), 'utf-8');
+    await fs.writeFile(PATH_DB, JSON.stringify(productData, null, 2), 'utf-8');
     console.log(productData.length);
   } catch (err) {
     console.error(err);

@@ -1,104 +1,77 @@
 [
   {
-    "name": "Modern Bamboo Bacon",
-    "price": "701.85",
-    "category": "Health",
-    "description": "Introducing the Benin-inspired Chicken, blending honored style with local craftsmanship"
+    "name": "Fresh Bamboo Bike",
+    "price": "933.92",
+    "category": "Computers"
   },
   {
-    "name": "Generic Cotton Hat",
-    "price": "570.85",
-    "category": "Toys",
-    "description": "Savor the golden essence in our Mouse, designed for delirious culinary adventures"
+    "name": "Incredible Gold Chips",
+    "price": "443.11",
+    "category": "Music"
   },
   {
-    "name": "Fantastic Bamboo Cheese",
-    "price": "769.65",
-    "category": "Health",
-    "description": "Discover the ruddy new Mouse with an exciting mix of Bamboo ingredients"
+    "name": "Intelligent Concrete Gloves",
+    "price": "299.00",
+    "category": "Music"
   },
   {
-    "name": "Awesome Ceramic Gloves",
-    "price": "168.39",
-    "category": "Grocery",
-    "description": "Ergonomic Salad made with Cotton for all-day medium support"
+    "name": "Licensed Steel Gloves",
+    "price": "796.69",
+    "category": "Kids"
   },
   {
-    "name": "Oriental Ceramic Shoes",
-    "price": "721.59",
-    "category": "Grocery",
-    "description": "Professional-grade Towels perfect for illustrious training and recreational use"
+    "name": "Sleek Granite Chips",
+    "price": "357.99",
+    "category": "Baby"
   },
   {
-    "name": "Handcrafted Cotton Car",
-    "price": "653.65",
-    "category": "Movies",
-    "description": "Stylish Tuna designed to make you stand out with expensive looks"
+    "name": "Unbranded Bamboo Salad",
+    "price": "329.89",
+    "category": "Jewelry"
   },
   {
-    "name": "Fantastic Metal Table",
-    "price": "626.49",
-    "category": "Computers",
-    "description": "The pink Ball combines Mongolia aesthetics with Manganese-based durability"
+    "name": "Modern Steel Car",
+    "price": "551.10",
+    "category": "Tools"
   },
   {
-    "name": "Fantastic Cotton Pizza",
-    "price": "736.69",
-    "category": "Automotive",
-    "description": "Our rhinoceros-friendly Bike ensures willing comfort for your pets"
+    "name": "Awesome Steel Table",
+    "price": "360.05",
+    "category": "Jewelry"
   },
   {
-    "name": "Awesome Cotton Keyboard",
-    "price": "456.19",
-    "category": "Sports",
-    "description": "Huel and Sons's most advanced Car technology increases scornful capabilities"
+    "name": "Awesome Gold Tuna",
+    "price": "611.49",
+    "category": "Toys"
   },
   {
-    "name": "Oriental Ceramic Pants",
-    "price": "823.79",
-    "category": "Books",
-    "description": "The grey Chicken combines Malta aesthetics with Hydrogen-based durability"
+    "name": "Gorgeous Bamboo Computer",
+    "price": "65.55",
+    "category": "Jewelry"
   },
   {
-    "name": "Sleek Silk Bike",
-    "price": "731.60",
-    "category": "Grocery",
-    "description": "The sleek and unused Bike comes with yellow LED lighting for smart functionality"
+    "name": "Unbranded Gold Pizza",
+    "price": "301.39",
+    "category": "Jewelry"
   },
   {
-    "name": "Rustic Aluminum Pants",
-    "price": "772.69",
-    "category": "Baby",
-    "description": "Innovative Car featuring blaring technology and Plastic construction"
+    "name": "Soft Bamboo Table",
+    "price": "95.99",
+    "category": "Industrial"
   },
   {
-    "name": "Handmade Aluminum Gloves",
-    "price": "873.79",
-    "category": "Toys",
-    "description": "Experience the azure brilliance of our Hat, perfect for unlawful environments"
+    "name": "Handcrafted Silk Computer",
+    "price": "108.59",
+    "category": "Kids"
   },
   {
-    "name": "Modern Bronze Keyboard",
-    "price": "15.91",
-    "category": "Automotive",
-    "description": "Quigley Group's most advanced Car technology increases legal capabilities"
+    "name": "Tasty Concrete Pants",
+    "price": "328.05",
+    "category": "Industrial"
   },
   {
-    "name": "Fresh Cotton Bike",
-    "price": "289.45",
-    "category": "Sports",
-    "description": "New Towels model with 50 GB RAM, 42 GB storage, and enlightened features"
-  },
-  {
-    "name": "Unbranded Silk Pizza",
-    "price": "380.05",
-    "category": "Toys",
-    "description": "Our koala-friendly Salad ensures legal comfort for your pets"
-  },
-  {
-    "name": "Handmade Plastic Car",
-    "price": "323.30",
-    "category": "Clothing",
-    "description": "The Team-oriented regional help-desk Chips offers reliable performance and vengeful design"
+    "name": "Soft Gold Shirt",
+    "price": "663.89",
+    "category": "Health"
   }
 ]

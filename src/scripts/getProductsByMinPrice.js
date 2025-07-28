@@ -1,11 +1,15 @@
 import { readFileProducts } from '../utils/readFileProducts.js';
 
 const getProductsByMinPrice = async (price) => {
-  const productData = await readFileProducts();
   try {
+    const productData = await readFileProducts();
+    const filterProducts = productData.filter(
+      (product) => product['price'] >= price,
+    );
+    return filterProducts;
   } catch (err) {
     console.error(err);
   }
 };
 
-console.log(getProductsByMinPrice(100));
+console.log(await getProductsByMinPrice(100));
